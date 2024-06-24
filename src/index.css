@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#root {
+    font-family: "Playfair Display", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    position: relative;
+}
+
+#Home {
+    background-image: url('./assets/banner_bg.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+
+.btn_1 {
+    background: linear-gradient(90deg, rgba(100, 155, 255, 1) 0%, rgba(0, 112, 250, 1) 15%, rgba(100, 155, 255, 1) 100%);
+}
+
+#About {
+    background-image: url('./assets/about_bg.png');
+    background-position: left bottom;
+    background-repeat: no-repeat;
+    background-size: 50% 90%;
+}
+
+.slick-prev:before,
+.slick-next:before {
+    color: black;
+   
+}
+
+.slick-dots li button:before {
+    font-size: 12px;
+    color: black;
+}
+
+.slick-dots li.slick-active button:before {
+    color: black;
+}
+
+.slick-center .w-full {
+    border-width: 4px;
+    border-style: solid;
+    border-image: linear-gradient(to bottom, #51DFDC, #8EE3D9) 1;
+    transform: scale(1.1);
+    transition: transform 0.3s ease-in-out;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+
+#Doctor {
+    height: 590px;
+    background-image: url('./assets/review_bg.png.webp');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    z-index: 0;
+}
+
+#Doctor::after {
+    position: absolute;
+    content: "";
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #1c19ab;
+    opacity: 0.8;
+    z-index: -1;
+}
+
+.doctor_div {
+    transform: translate(0, -100px);
+}

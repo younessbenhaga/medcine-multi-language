@@ -1,0 +1,56 @@
+{
+  "navbar": {
+    "nav1": "Accueil",
+    "nav2": "À propos",
+    "nav3": "Services",
+    "nav4": "Médecin",
+    "nav5": "Carte et heure",
+    "nav6": "Rendez-vous",
+    "nav7": "Contact"
+  },
+  "Home": {
+    "hom1": "Nous sommes là pour vos soins",
+    "hom2": "Meilleurs soins et meilleur médecin",
+    "hom3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, a eos culpa soluta doloremque tenetur corporis error dignissimos recusandae? Quos, placeat fuga corrupti qui libero jure? Fugiat eius officiis id."
+  },
+  "btn": "PRENDRE UN RENDEZ-VOUS",
+  "About": "À propos de nous",
+  "Services": {
+    "title": "Our services",
+    "titleOne": "Services un",
+    "descOne": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!",
+    "titleTwo": "Services deux",
+    "descTwo": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!",
+    "titleThree": "Services trois",
+    "descThree": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!",
+    "titleFour": "Services quatre",
+    "descFour": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!"
+  },
+  "Doctor": {
+    "title": "Médecin",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!"
+  },
+  "MapHour": {
+    "title": "Horaire d'ouverture",
+    "hours1": "Afficher les heures",
+    "i1": "IL EST",
+    "i2": "NOUS SOMMES",
+    "i3": "OUVERTS",
+    "i4": "fermés",
+    "times1": "Nous sommes ouverts à ces heures"
+  },
+  "Form": {
+    "title": "Prendre rendez-vous",
+    "remplaire": "Remplir le formulaire",
+    "name": "Nom et prénom",
+    "email": "E-mail",
+    "Number": "Numéro de téléphone",
+    "date": "Date de rendez-vous",
+    "send": "Prendre rendez-vous"
+  },
+  "Footer": {
+    "numero": "Numéro de téléphone",
+    "address1": "Notre adresse",
+    "email1": "E-mail"
+  }
+}

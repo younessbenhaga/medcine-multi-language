@@ -1,0 +1,56 @@
+{
+  "navbar": {
+    "nav1": "Home",
+    "nav2": "About",
+    "nav3": "Services",
+    "nav4":"Doctor",
+    "nav5":"Map & time",
+    "nav6":"Appointment",
+    "nav7": "Contact"
+  },
+  "Home": {
+    "hom1": "We Are Here For Your Care",
+    "hom2": "Best Care & Better Doctor",
+    "hom3": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Temporibus, a eos culpa soluta doloremque tenetur corporis error dignissimos recusandae? Quos, placeat fuga corrupti qui libero iure? Fugiat eius officiis id."
+  },
+  "btn": "MAKE AN APPOINTMENT",
+  "About": "About us",
+  "Services": {
+    "title": "Our services",
+    "titleOne": "Services one",
+    "descOne": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!",
+    "titleTwo": "Services two",
+    "descTwo": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!",
+    "titleThree": "Services three",
+    "descThree": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!",
+    "titleFour": "Services four",
+    "descFour": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!"
+  },
+  "Doctor": {
+    "title": "Doctor",
+    "description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Assumenda perferendis, quae, quis itaque a velit neque aut ipsam accusantium vero ab totam molestias error suscipit labore,inventore animi vitae? Explicabo!"
+  },
+  "MapHour": {
+    "title": "Opening time",
+    "hours1": "View Hours",
+    "i1": "IT'S",
+    "i2": "WE'RE",
+    "i3": "OPEN",
+    "i4": "closed",
+    "times1": "We're Open At These Times"
+  },
+  "Form": {
+    "title": "Make an appointment",
+    "remplaire": "Fill in the form",
+    "name":"Full Name",
+    "email":"Email",
+    "Number":"phone number",
+    "date":"Date of appointment",
+    "send":"Make an appointment"
+  },
+  "Footer":{
+    "numero":"Phone number",
+    "address1":"Our adress",
+    "email1":"Email"
+  }
+}
